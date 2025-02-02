@@ -9,3 +9,4 @@ Click the image to see animation.
 ---
 ## Acknoledgements
 Thanks to Blender Guru for making the [Donut tutorial](https://youtube.com/playlist?list=PLjEaoINr3zgEPv5y--4MKpciLaoQYZB1Z&si=sADvKfn4-4OyB97J)
+Thanks to [Poliigon](https://www.poliigon.com/blender) for providing the [Utensis Jar](https://www.poliigon.com/model/wooden-utensils-jar-model/3441) add on.
